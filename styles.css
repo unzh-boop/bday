@@ -2,7 +2,7 @@ body{
     background-color: plum;
 }
 .container {
-    border: 2px solid black;
+    
     left: 0;
     right: 0;
     top: 0;
@@ -12,13 +12,14 @@ body{
   }
   
   .full-cake {
+    border: 2px solid black;
     position: absolute;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    height: 125px;
-    width: 250px;
+    height: 400px;
+    width: 300px;
     margin: auto;
   }
   
@@ -28,7 +29,7 @@ body{
     height: 100px;
     width: 100px;
     left: 74px;
-    top: 10px;
+    top: 200px;
     position: absolute;
     border-top-left-radius: 20%;
     border-top-right-radius: 20%;
@@ -42,7 +43,7 @@ body{
     background: #9f6934;
     border-radius: 50px / 25px;
     left: 75px;
-    top: 2px;
+    top: 190px;
     position: absolute;
   }
   
@@ -52,6 +53,86 @@ body{
     background: white;
     border-radius: 125px / 64px;
     left: 22px;
-    top: 35px;
+    top: 230px;
     position: absolute;
   }
+
+  .icing1{
+    width: 10px;
+    height: 30px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 100px;
+    top: 230px;
+    position: absolute;
+  }
+
+  .icing2{
+    width: 10px;
+    height: 30px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 85px;
+    top: 220px;
+    position: absolute;
+  }
+
+  .icing3{
+    width: 10px;
+    height: 36px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 150px;
+    top: 230px;
+    position: absolute;
+  }
+
+  .icing4{
+    width: 10px;
+    height: 26px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 135px;
+    top: 230px;
+    position: absolute;
+  }
+
+  .icing5{
+    width: 8px;
+    height: 36px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 167px;
+    top: 214px;
+    position: absolute;
+  }
+
+  .icing7{
+    width: 8px;
+    height: 51px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 118px;
+    top: 214px;
+    position: absolute;
+  }
+
+  .icing8{
+    width: 8px;
+    height: 51px;
+    background: #9f6934;
+    border-radius: 125px / 64px;
+    left: 74px;
+    top: 214px;
+    position: absolute;
+  }
+
+
+  
+
+
+
+  
+
+
+  
