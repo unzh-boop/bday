@@ -1,0 +1,52 @@
+body{
+    background-color: plum;
+}
+.container{
+    border: 2px solid black;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+}
+.cake-lower{
+    border: 1px solid #654321;
+    background-color : #654321;
+    height: 100px;
+    width: 100px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+.cake-top{
+    width: 100px;
+    height: 50px;
+    background:#9f6934;
+    border-radius: 50px / 25px;
+    left: 0;
+    right: 0;
+    top: 180px;
+    margin: auto;
+    position: absolute;
+
+}
+.plate{
+    width: 250px;
+    height: 125px;
+    background:white;
+    border-radius: 125px / 64px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 1;
+    margin: auto;
+    position: absolute;
+}
