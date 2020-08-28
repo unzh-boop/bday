@@ -31,10 +31,10 @@ body{
     left: 74px;
     top: 200px;
     position: absolute;
-    border-top-left-radius: 20%;
-    border-top-right-radius: 20%;
-    border-bottom-right-radius: 20%;
-    border-bottom-left-radius: 20%;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 18%;
+    border-bottom-left-radius: 18%;
   }
   
   .cake-top {
@@ -127,13 +127,23 @@ body{
     position: absolute;
   }
 
+  .cake-below-base{
+    width: 99px;
+    height: 35px;
+    background: #654321;
+    border-radius: 130px / 50px;
+    left: 75px;
+    top: 272px;
+    position: absolute;
+    z-index: 1;
+  }
   .cake-lower1 {
     border: 1px solid #654321;
     background-color: #654321;
     height: 50px;
     width: 65px;
     left: 90px;
-    top: 150px;
+    top: 160px;
     position: absolute;
     border-top-left-radius: 20%;
     border-top-right-radius: 20%;
@@ -143,24 +153,25 @@ body{
   
   }
   .cake-top-base {
-    width: 65px;
+    width: 67px;
     height: 35px;
-    background: #d3bfac;
-    border-radius: 127px / 45px;
-    left: 91px;
-    top: 172px;
+    background: #654321;
+    border-radius: 130px / 80px;
+    left: 90px;
+    top: 182px;
     position: absolute;
     z-index: 1;
   }
   
   .cake-top1 {
-    width: 100px;
-    height: 50px;
+    width: 67px;
+    height: 35px;
     background: #9f6934;
-    border-radius: 50px / 25px;
-    left: 75px;
-    top: 190px;
+    border-radius: 130px / 80px;
+    left: 90px;
+    top: 149px;
     position: absolute;
+    z-index: 1;
   }
 
   .icing11{
@@ -184,13 +195,14 @@ body{
   }
 
   .icing31{
-    width: 10px;
-    height: 36px;
+    width: 5px;
+    height: 18px;
     background: #9f6934;
     border-radius: 125px / 64px;
-    left: 150px;
-    top: 270px;
+    left: 152px;
+    top: 166px;
     position: absolute;
+    z-index: 1;
   }
 
   .icing41{
