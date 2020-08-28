@@ -294,8 +294,132 @@ body{
     border-bottom-right-radius: 600px;
   }
 
-
+  .cherry1{
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      position: absolute;
+      top: 200px;
+      left: 88px;
+      z-index: 1;
+      background-color: salmon;
+  }
   
+  .cherry2{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 203px;
+    left: 92px;
+    z-index: 1;
+    background-color: rgb(250, 96, 78);
+}
+.cherry3{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 208px;
+    left: 97px;
+    z-index: 1;
+    background-color: rgb(255, 60, 38);
+}
+
+.cherry5{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 209px;
+    left: 103px;
+    z-index: 1;
+    background-color: salmon;
+}
+
+.cherry4{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 210px;
+    left: 109px;
+    z-index: 1;
+    background-color: rgb(250, 96, 78);
+}
+.cherry6{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 211px;
+    left: 114px;
+    z-index: 1;
+    background-color: rgb(255, 60, 38);
+}
+
+.cherry7{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 211px;
+    left: 119px;
+    z-index: 1;
+    background-color: rgb(250, 96, 78);
+}
+.cherry8{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    left: 88px;
+    z-index: 1;
+    background-color: salmon;
+}
+
+.cherry9{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 206px;
+    left: 97px;
+    z-index: 1;
+    background-color: rgb(255, 60, 38);
+}
+.cherry11{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 203px;
+    left: 92px;
+    z-index: 1;
+    background-color: rgb(250, 96, 78);
+}
+.cherry10{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    left: 88px;
+    z-index: 1;
+    background-color: salmon;
+}
+.cherry12{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 206px;
+    left: 97px;
+    z-index: 1;
+    background-color: rgb(255, 60, 38);
+}
+
 
 
 
