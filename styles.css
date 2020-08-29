@@ -174,7 +174,7 @@ body{
   .bottom-cream{
     width: 99px;
     height: 37px;
-    background: linear-gradient(#654321, #654321, rgb(255, 99, 99));
+    background: linear-gradient(#654321, #654321,rgb(245, 128, 128));
     border-radius: 130px / 50px;
     left: 75px;
     top: 251px;
@@ -355,7 +355,7 @@ body{
     top: 203px;
     left: 150px;
     z-index: 1;
-    background-color: rgb(250, 199, 58);
+    background-color: rgb(251, 115, 115);
 }
 .cherry3{
     width: 8px;
@@ -376,7 +376,7 @@ body{
     top: 209px;
     left: 140px;
     z-index: 1;
-    background-color: rgb(255, 31, 31);
+    background-color: rgb(251, 115, 115);
 }
 
 .cherry4{
@@ -387,7 +387,7 @@ body{
     top: 210px;
     left: 134px;
     z-index: 2;
-    background-color: rgb(248, 187, 55);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 .cherry6{
     width: 8px;
@@ -397,7 +397,7 @@ body{
     top: 211px;
     left: 127px;
     z-index: 2;
-    background-color: rgba(255, 32, 32, 0.871);
+    background-color: rgb(251, 115, 115);
 }
 
 .cherry7{
@@ -418,7 +418,7 @@ body{
     top: 212px;
     left: 114px;
     z-index: 2;
-    background-color: rgb(248, 187, 55);
+    background-color: rgb(251, 115, 115);
 }
 
 .cherry9{
@@ -439,7 +439,7 @@ body{
     top: 210px;
     left: 102px;
     z-index: 2;
-    background-color: rgb(255, 31, 31);
+    background-color: rgb(251, 115, 115);
 }
 .cherry10{
     width: 8px;
@@ -449,7 +449,7 @@ body{
     top: 203px;
     left: 90px;
     z-index: 2;
-    background-color: rgba(255, 32, 32, 0.871);
+    background-color: rgb(251, 115, 115);
 }
 .cherry12{
     width: 8px;
@@ -459,7 +459,7 @@ body{
     top: 207px;
     left: 96px;
     z-index: 1;
-    background-color: rgb(248, 187, 55);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 .cherry13{
     width: 8px;
@@ -469,9 +469,43 @@ body{
     top: 200px;
     left: 85px;
     z-index: 1;
-    background-color: rgb(255, 31, 31);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 
+.A{
+    height: 30px;
+    width: 3px;
+    transform: rotate(20deg);
+    position: absolute;
+    top: 130px;
+    left:99px;
+    background-color: black;
+    z-index: 1;
+}
+
+.A::before{
+    content: '';
+    height: 30px;
+    width: 3px;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: 0px;
+    left:12px;
+    background-color: black;
+    z-index: 1;
+}
+
+.A::after{
+    content: '';
+    width: 15px;
+    height: 3px;
+    transform: rotate(-20deg);
+    top: 40px;
+    left:0px;
+    background-color: black;
+    z-index: 1;
+    position: absolute;
+}
 
 
 
