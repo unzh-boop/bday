@@ -365,7 +365,7 @@ body{
     top: 206px;
     left: 146px;
     z-index: 1;
-    background-color: rgb(88, 171, 37);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 
 .cherry5{
@@ -397,7 +397,7 @@ body{
     top: 211px;
     left: 127px;
     z-index: 2;
-    background-color: rgb(88, 171, 37);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 
 .cherry7{
@@ -429,7 +429,7 @@ body{
     top: 211px;
     left: 109px;
     z-index: 2;
-    background-color: rgb(88, 171, 37);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 .cherry11{
     width: 8px;
@@ -449,7 +449,7 @@ body{
     top: 203px;
     left: 90px;
     z-index: 2;
-    background-color: rgb(88, 171, 37);
+    background-color: rgba(255, 32, 32, 0.871);
 }
 .cherry12{
     width: 8px;
@@ -472,9 +472,7 @@ body{
     background-color: rgb(255, 31, 31);
 }
 
-.A{
 
-}
 
 
 
