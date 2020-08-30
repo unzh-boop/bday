@@ -679,34 +679,35 @@ body{
     transform: rotate(20deg);
     position: absolute;
     top: 130px;
-    left:99px;
+    left:117px;
     background-color: black;
     z-index: 1;
 }
 
 .A::before{
     content: '';
-    height: 30px;
+    height: 26px;
     width: 3px;
     transform: rotate(-40deg);
     position: absolute;
     top: 0px;
-    left:12px;
+    left:9px;
     background-color: black;
     z-index: 1;
 }
 
 .A::after{
     content: '';
-    width: 15px;
+    width: 10px;
     height: 3px;
     transform: rotate(-20deg);
-    top: 40px;
+    top: 13px;
     left:0px;
     background-color: black;
     z-index: 1;
     position: absolute;
 }
+
 
 
 
